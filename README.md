@@ -79,7 +79,7 @@ PayXpert/
 │
 ├── db.properties # DB configuration file
 └── requirements.txt # List of dependencies
-
+```
 ---
 
 ## ⚙️ Setup Instructions
