@@ -37,7 +37,7 @@ PayXpert is a menu-driven, object-oriented payroll management system built using
 ---
 
 ## 🧩 Project Structure
-PayXpert/ ├── main/ │ └── main_module.py # Entry point – menu-driven interface ├── entity/ │ ├── employee.py │ ├── payroll.py │ ├── tax.py │ └── financial_record.py ├── dao/ │ ├── employee_service.py │ ├── payroll_service.py │ ├── tax_service.py │ ├── financial_record_service.py │ └── report_generator.py ├── service/ │ └── validation_service.py ├── util/ │ ├── DBConnUtil.py │ └── DBPropertyUtil.py ├── exception/ │ └── exceptions.py ├── unitTest/ │ └── testcases.py ├── db.properties # DB configuration file └── readme.txt # List of dependencies 
+<pre> ### 📁 Project Structure ``` PayXpert/ ├── main/ │ └── main_module.py # Entry point – menu-driven interface ├── entity/ │ ├── employee.py │ ├── payroll.py │ ├── tax.py │ └── financial_record.py ├── dao/ │ ├── employee_service.py │ ├── payroll_service.py │ ├── tax_service.py │ ├── financial_record_service.py │ └── report_generator.py ├── service/ │ └── validation_service.py ├── util/ │ ├── DBConnUtil.py │ └── DBPropertyUtil.py ├── exception/ │ └── exceptions.py ├── unitTest/ │ └── testcases.py ├── db.properties # DB configuration file └── readme.txt # List of dependencies ``` </pre>
 
 ---
 
